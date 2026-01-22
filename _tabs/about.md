@@ -8,4 +8,4 @@ Hi I am Jeremiah Pichoti a cybersecurity and AI enthusiast
  -SKilled in Network and Webapp Security
  -Digital forensics and Investigation
  -Passionate on building Cybersafe environment free of vulnaabilities 
- - Exploring AI in hacking
+ -Exploring AI in hacking
