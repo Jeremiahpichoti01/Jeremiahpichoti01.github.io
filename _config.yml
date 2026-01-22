@@ -20,9 +20,9 @@ tagline: "Cyber secuirity Analyst| AI | Risk Assessment analyst| Corporate Intel
 
 description: "My Journey and projects in cyber security, AI, Digital forensics, and cloud security"
 
-# Fill in the protocol & hostname for your site.
+# Fill in the protocol & hostname for your sit.e.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://Jeremiahpichoti01.github.io"
 
 github:
   username: Jeremiahpichoti01 # change to your GitHub username
@@ -40,7 +40,7 @@ social:
     - https://twitter.com/PichotiM59836 # change to your Twitter homepage
     - https://github.com/Jeremiahpichoti01 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/jeremiah.pichoti.2025
     - https://www.linkedin.com/in/jeremiah-pichoti
 
 # Site Verification Settings
