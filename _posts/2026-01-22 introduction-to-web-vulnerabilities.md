@@ -2,12 +2,16 @@
 title: Introduction to web Vulnerabilities
 date: 2026-01-22 17:50:00
 categories: [cybersecurity, web]
-tags: [insecure-defaults,exposed-services, configuration]
+tags: [xss, sql-injection,csrf]
 ---
-Web Valnerabilities and common entry points for attackers. In this topic I will explore **Security Misconfiguration**  and **Cryptographic Failures**
-## Security Misconfiguration
-It is caused by systems, applications or servers being installed with insecure default settings, unnecessary services being enabled or inappropriate permissions. These are exposed administration panels, open ports, default passwords, detailed error messages and the lack of security headers. With these weaknesses, attackers can use them to obtain unauthorized access, escalate privileges, or sensitive information without necessarily having to use advanced methods.
+Web Valnerabilities and common entry points for attackers. In this topic I will explore **sql-injection**  and **xss** ---two of owasp top 10.
+
+## SQL-injection
+SQL Injection (SQLi) is a web vulnerability that arises in case the input by users is not appropriately handled and embedded in database queries. Attackers will have the ability to inject malicious SQL to either overcome authentication, scrape sensitive information, alter data, or destroy databases altogether. SQL injection is mostly aimed at login forms, search forms, URL parameters, and APIs and is mainly as a result of the lack of input validation and the utilization of parameterized queries.
 
 
-##Cryptographic Failures
-Occurs when sensitive information is not well secured based on robust and contemporary cryptographic measures. This can be by employing weak or olden day algorithms, poor key control, plaintext transmission of data or absence of encryption of sensitive data like passwords and credit cards. The breach of data, identity theft and the loss of user trust are possible as a result of attackers intercepting or accessing the exposed data.
+## xss
+Cross-Site scripting (XSS) vulnerability occurs when a Web application permits untrusted input to run as script code in a user browser. This allows an attacker to steal session cookies, steal user accounts, defame a web page, or send users to rogue sites. XSS usually gets its way in comment forms, comment boxes, user profiles, and search results, where applications do not encode or sanitize user provided information prior to display.
+
+
+
