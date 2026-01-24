@@ -1,6 +1,6 @@
 ---
-title: Introduction-to-web-Vulnerabilities.md
-date: 2026-01-22 17:50:00
+title: "Introduction to web Vulnerabilities"
+date: 2026-01-22 17:50:00 +3:00
 categories: [cybersecurity, web]
 tags: [xss, sql-injection,csrf]
 ---
