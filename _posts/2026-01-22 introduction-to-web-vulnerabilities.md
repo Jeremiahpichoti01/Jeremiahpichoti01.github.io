@@ -1,11 +1,11 @@
 ---
 title: "Introduction to web Vulnerabilities"
 date: 2026-01-22 17:50:00 +0300
-categories: [cybersecurity, web]
+categories: [Cybersecurity, Web]
 tags: [xss, sql-injection,csrf]
 ---
 
-Web Valnerabilities and common entry points for attackers. In this topic I will explore **sql-injection**  and **xss** ---two of owasp top 10.
+Web Valnerabilities and common entry points for attackers. In this topic I will explore **sql-injection**  and **xss** -- two of owasp top 10.
 
 ## SQL-injection
 SQL Injection (SQLi) is a web vulnerability that arises in case the input by users in a database.
