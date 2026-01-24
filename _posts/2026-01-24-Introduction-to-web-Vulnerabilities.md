@@ -1,6 +1,6 @@
 ---
 title: "Introduction to webVulnerabilities"
-date:2026-01-24 11:13:00 +0300
+date: 2026-01-24 11:13:00 +0300
 Categories: [Cybersecurity, Web]
 Tags: [xss, sql-injection, csrf]
 ---
